@@ -1,5 +1,28 @@
+html {
+  background-color: antiquewhite;
+}
+body {
+  color: #ebb3b3;
+  background-color: antiquewhite;
+  max-width: 80vw;
+  margin: 0 auto;
+}
+
+
+.col-sm-10{
+  background-color: #323256;
+}
+
+.col-sm-2{
+  margin: 0;
+  padding: 0;
+
+}
+
 .sidebar-nav {
   margin-top: 20px;
   padding: 0;
+  background-color: #323256;
+  color: #ebb3b3;
   list-style: none;
 }
